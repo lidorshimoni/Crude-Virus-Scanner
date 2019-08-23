@@ -1,0 +1,17 @@
+﻿  Ex_lidor.c
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(9): warning C4005: 'TRUE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(75): note: see previous definition of 'TRUE'
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(18): warning C4273: '_errno': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\errno.h(18): note: see previous definition of '_errno'
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(53): warning C4047: '=': 'FILE *' differs in levels of indirection from 'int'
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(29): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(121): warning C4476: 'printf' : unknown type field character '>' in format specifier
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(122): warning C4476: 'fprintf' : unknown type field character ')' in format specifier
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(126): warning C4476: 'printf' : unknown type field character '>' in format specifier
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(127): warning C4476: 'fprintf' : unknown type field character ')' in format specifier
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(165): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(189): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(170): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(171): warning C4189: 'i': local variable is initialized but not referenced
+c:\users\user\source\repos\magshimim_ex1\magshimim_ex1\ex_lidor.c(53): warning C4706: assignment within conditional expression
+  Magshimim_EX1.vcxproj -> C:\Users\user\source\repos\Magshimim_EX1\Debug\Magshimim_EX1.exe
